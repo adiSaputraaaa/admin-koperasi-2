@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Koperasi Admin",
-  description: "Welcome to Koperasi Admin",
+  title: "Koperasi Admin - Owner",
+  description: "Welcome To Dashboard",
 };
 
 export default function RootLayout({
