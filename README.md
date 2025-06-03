@@ -139,4 +139,4 @@ Setelah mengikuti langkah-langkah di atas:
 * ✅ Laravel berjalan di `http://127.0.0.1:8000`
 * ✅ Next.js berjalan di `http://localhost:3000`
 
-Selamat membangun aplikasi koperasi Anda! 🚀
+Salam ! 🚀
